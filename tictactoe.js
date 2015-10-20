@@ -1,6 +1,6 @@
 
 var activeClass = 'ttt-active';
-var activeRegEx = /(?:^|\s)ttt-active(?!\S)/g;
+var activeRegEx = /(?:^|\s)ttt-active(?!\s)/g;
 
 var winners = [
     ['ttt_a1', 'ttt_a2', 'ttt_a3'],

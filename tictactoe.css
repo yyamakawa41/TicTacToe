@@ -10,6 +10,8 @@ body {
 h1 {
     font-size: 48px;
     text-transform: uppercase;
+    font-family: sans-serif;
+    color: #70E8AB;
 }
 
 
